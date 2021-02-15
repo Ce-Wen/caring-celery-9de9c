@@ -11,7 +11,7 @@ sections:
       tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
       veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
     actions:
-      - label: Learn More
+      - label: ' suoN'
         url: /features
         style: primary
   - section_id: features

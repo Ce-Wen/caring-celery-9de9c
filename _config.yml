@@ -38,7 +38,7 @@ header:
 footer:
   sections:
     - type: footer_text
-      image: images/graceful-rabbit.svg
+      image: images/purple-panda.svg
       image_url: /
       image_alt: Footer logo
       content: |

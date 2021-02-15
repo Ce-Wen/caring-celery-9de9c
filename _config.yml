@@ -7,7 +7,7 @@ collections:
 base_font: nunito-sans
 palette: purple
 header:
-  logo_img: images/fabulous-plankton.svg
+  logo_img: images/melodic-turmeric.svg
   logo_img_alt: Logo
   has_nav: true
   nav_links:

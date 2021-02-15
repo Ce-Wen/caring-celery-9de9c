@@ -18,7 +18,7 @@ header:
       url: /products
       style: link
     - label: Services
-      url: /pricing
+      url: /services
       style: link
     - label: Partenaires
       url: /style-guide

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.3.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Calque_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 34 14.2" style="enable-background:new 0 0 34 14.2;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#Tracé_344_2_);}
+	.st1{fill:url(#Tracé_345_2_);}
+	.st2{fill:url(#Tracé_346_2_);}
+	.st3{fill:url(#Tracé_347_2_);}
+	.st4{fill:#323232;}
+	.st5{font-family:'Lato-Bold';}
+	.st6{font-size:4.566px;}
+</style>
+<g id="EOCSP" transform="translate(-5.185 -1.6)">
+	<g id="EOCSP_1_" transform="translate(-5.185 -1.6)">
+		<g id="Groupe_79_1_">
+			
+				<linearGradient id="Tracé_344_2_" gradientUnits="userSpaceOnUse" x1="104.6449" y1="49.867" x2="104.6449" y2="50.867" gradientTransform="matrix(3.1501 0 0 8.1112 -316.8065 -399.5256)">
+				<stop  offset="6.000000e-03" style="stop-color:#08B8BC"/>
+				<stop  offset="1" style="stop-color:#5C66D9"/>
+			</linearGradient>
+			<path id="Tracé_344_1_" class="st0" d="M13.4,13c0.7-0.2,1.1-0.8,1-1.5l-0.7-5.4c-0.1-0.7-0.7-1.2-1.4-1.2
+				c-0.7,0.2-1.2,0.9-1,1.6l0,0l0.7,5.3C12.1,12.5,12.7,13.1,13.4,13L13.4,13z"/>
+			
+				<linearGradient id="Tracé_345_2_" gradientUnits="userSpaceOnUse" x1="92.9523" y1="176.861" x2="92.9523" y2="175.861" gradientTransform="matrix(3.6009 0 0 2.3 -318.5119 -395.8228)">
+				<stop  offset="0" style="stop-color:#5C66D9"/>
+				<stop  offset="0.212" style="stop-color:#437ED0"/>
+				<stop  offset="0.539" style="stop-color:#239EC5"/>
+				<stop  offset="0.813" style="stop-color:#0FB1BE"/>
+				<stop  offset="1" style="stop-color:#08B8BC"/>
+			</linearGradient>
+			<path id="Tracé_345_1_" class="st1" d="M17.1,8.6l-2,0.2c-0.4,0.2-0.7,0.6-0.7,1.1c0.1,0.5,0.4,0.9,0.9,1l2-0.2
+				c0.4-0.2,0.7-0.6,0.7-1.1S17.6,8.7,17.1,8.6z"/>
+			
+				<linearGradient id="Tracé_346_2_" gradientUnits="userSpaceOnUse" x1="72.2599" y1="161.7549" x2="72.2599" y2="162.7549" gradientTransform="matrix(4.822 0 0 2.5 -332.1374 -400.1228)">
+				<stop  offset="0.276" style="stop-color:#08B8BC"/>
+				<stop  offset="0.729" style="stop-color:#3B86CE"/>
+				<stop  offset="1" style="stop-color:#5C66D9"/>
+			</linearGradient>
+			<path id="Tracé_346_1_" class="st2" d="M15.1,6.8l2.6-0.3c0.5-0.1,1.1-0.6,1-1.2c-0.2-0.6-0.6-1-1.2-1l-2.6,0.3
+				c-0.5,0.1-1.1,0.6-1,1.2C13.9,6.4,14.6,6.8,15.1,6.8z"/>
+			
+				<linearGradient id="Tracé_347_2_" gradientUnits="userSpaceOnUse" x1="49.9323" y1="128.2884" x2="49.9323" y2="129.2884" gradientTransform="matrix(7.6047 0 0 3.1529 -363.7123 -391.8232)">
+				<stop  offset="0" style="stop-color:#08B8BC"/>
+				<stop  offset="1" style="stop-color:#5C66D9"/>
+				<stop  offset="1" style="stop-color:#D85C9B"/>
+			</linearGradient>
+			<path id="Tracé_347_1_" class="st3" d="M19.8,13.7c-0.1-0.6-0.7-1.1-1.3-1.1l-4.7,0.8c-1.3,0.2-1.6-0.6-1.6-0.6s0.1,0.7,0.2,1.9
+				c0.2,1.4,2.2,1,2.2,1l4.3-0.6C19.5,14.9,19.9,14.4,19.8,13.7z"/>
+		</g>
+		<text transform="matrix(1 0 0 1 20.5383 11.1025)" class="st4 st5 st6">EverTrust</text>
+	</g>
+</g>
+</svg>

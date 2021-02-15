@@ -21,7 +21,7 @@ header:
       url: /services
       style: link
     - label: Partenaires
-      url: /style-guide
+      url: /partenaires
       style: link
     - label: Support
       url: lorem-ipsum

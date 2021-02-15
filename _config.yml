@@ -41,7 +41,12 @@ footer:
       image: images/graceful-rabbit.svg
       image_url: /
       image_alt: Footer logo
-      content: Stackbit theme demo
+      content: |
+        Intellectum est enim mihi quidem in multis, et maxime in me
+        ipso, sed paulo ante in omnibus, cum M. Marcellum senatui
+        reique publicae concessisti, commemoratis praesertim
+        offensionibus, te auctoritatem huius ordinis dignitatemque
+        rei publicae tuis vel doloribus ctae vria.
     - type: footer_nav
       title: Company
       nav_links:

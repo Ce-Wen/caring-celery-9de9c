@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: images/10.jpg
+    image: images/2ee2a715a5aafdc97c6477e296256413-removebg-preview.png
     image_alt: App preview
     title: Evertrust
     content: >

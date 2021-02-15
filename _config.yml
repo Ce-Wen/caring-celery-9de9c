@@ -15,7 +15,7 @@ header:
       url: /
       style: link
     - label: Produits
-      url: /features
+      url: /products
       style: link
     - label: Services
       url: /pricing

@@ -9,7 +9,7 @@ palette: purple
 header:
   logo_img: images/melodic-turmeric.svg
   logo_img_alt: Logo
-  has_nav: true
+  has_nav: false
   nav_links:
     - label: Accueil
       url: /

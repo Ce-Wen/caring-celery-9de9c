@@ -66,7 +66,7 @@ sections:
             icon_position: right
   - section_id: reviews
     type: section_reviews
-    background: black
+    background: white
     title: Avis
     reviews:
       - author: Eric Widget

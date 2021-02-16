@@ -5,7 +5,7 @@ sections:
     type: section_hero
     image: images/Capture_d_écran_2021-02-16_à_02.56.59-removebg.png
     image_alt: App preview
-    title: Evertrust
+    title: Evertrusty
     content: >
       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
       tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim

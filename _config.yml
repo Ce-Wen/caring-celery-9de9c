@@ -7,9 +7,9 @@ collections:
 base_font: nunito-sans
 palette: purple
 header:
-  logo_img: images/fabulous-plankton.svg
+  logo_img: images/melodic-turmeric.svg
   logo_img_alt: Logo
-  has_nav: true
+  has_nav: false
   nav_links:
     - label: Accueil
       url: /
@@ -38,7 +38,7 @@ header:
 footer:
   sections:
     - type: footer_text
-      image: images/graceful-rabbit.svg
+      image: images/purple-panda.svg
       image_url: /
       image_alt: Footer logo
       content: |
@@ -128,4 +128,4 @@ exclude:
   - netlify.toml
   - stackbit-build.sh
   - stackbit-pull.js
-favicon: images/oval-birch.png
+favicon: images/favicon-16x16.png

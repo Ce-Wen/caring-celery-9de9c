@@ -1,6 +1,5 @@
 .site-header {
-  background: #fff;
-  color: $gray-700;
+  color: #fff;
   padding-bottom: 1em;
   padding-top: 1em;
 
@@ -22,7 +21,7 @@
 }
 
 .site-title {
-  color: $gray-700;
+  color: #fff;
   font-size: 1.33333em;
   font-weight: bold;
   line-height: 1.2;
@@ -56,14 +55,14 @@
 
   .site-navigation {
     .current-menu-item {
-      color: #fff;
+      color: #5C66D9;
     }
 
     a:not(.button) {
       color: inherit;
   
       &:hover {
-        color: $gray-500;
+        color: #5C66D9;
       }
     }
   }

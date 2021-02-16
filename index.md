@@ -3,9 +3,9 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: images/2ee2a715a5aafdc97c6477e296256413-removebg.png
+    image: images/great-birch.png
     image_alt: App preview
-    title: Evertrust
+    title: Evertrusty
     content: >
       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
       tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim

@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: images/Capture_d_écran_2021-02-16_à_02.56.59-removebg-preview.png
+    image: images/enthusiastic-sunflower.png
     image_alt: App preview
     title: Evertrusty
     content: >
